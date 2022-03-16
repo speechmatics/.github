@@ -8,6 +8,7 @@
   <b> | </b><a href="https://docs.speechmatics.com">Developer Docs</a>
   <b> | </b><a href="https://github.com/speechmatics">GitHub</a>
   <b> | </b><a href="https://gitlab.com/speechmatics">GitLab</a>
+  <b> | </b><a href="https://www.linkedin.com/company/speechmatics">LinkedIn</a>
 </p>
 
 <p align="center"><b><a href="https://page.speechmatics.com/free-trial.html">Start Free Trial 🚀</a></b></p>
@@ -24,7 +25,23 @@
 </p>
 
 <p align="center">
-  <b>Some of our research 👩‍🔬</b>
+  <b>Some of our <a href="https://www.speechmatics.com/our-technology/research">research</a> 👩‍🔬</b>
   <br>
-  <a href="https://github.com/speechmatics/hqa">hqa</a> Code to accompany the paper <a href="https://arxiv.org/abs/2002.08111">Hierarchical Quantized Autoencoders</a>
+  <a href="https://arxiv.org/abs/2002.08111">Hierarchical Quantized Autoencoders</a> and <a href="https://github.com/speechmatics/hqa">code to accompany the paper</a> - <a href="https://videos.neurips.cc/search/autoencoders/video/slideslive-38936029">NeurIPs 2020</a> - Will Williams, Sam Ringer, Tom Ash, John Hughes, David MacLeod, Jamie Dougherty. February 19, 2020.
+  <br>
+  <a href="https://arxiv.org/abs/1910.08519">Texture Bias Of CNNs Limits Few-Shot Classification Performance</a> - NeurIPS 2019 - Sam Ringer, Will Williams, Tom Ash, Remi Francis, David MacLeod. October 18, 2019.
+  <br>
+  <a href="https://www.semanticscholar.org/paper/Forward-backward-retraining-of-recurrent-neural-Senior-Robinson/c25e9ebd8fe9d761f4738f7936ef114f7f6afe5d">Forward-backward retraining of recurrent neural networks</a> - This presents the first “end-to-end” training paper for tasks such as speech recognition. A. Senior and A.J. Robinson. Advances in Neural Information Processing Systems 8, 1996
+  <br>
+  <a href="https://www.academia.edu/30352226/A_recurrent_error_propagation_network_speech_recognition_system">A recurrent error propagation network speech recognition system</a> - The first application of recurrent nets to speech recognition. A.J. Robinson and F. Fallside. Computer Speech and Language, 5(3):259–274, July 1991.
+</p>
+
+<p align="center">
+  <b>Some of our <a href="https://medium.com/speechmatics">tech blogs</a> ✍</b>
+  <br>
+  <a href="https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd">How to Build a Streaming DataLoader with PyTorch</a>
+  <br>
+  <a href="https://medium.com/speechmatics/boosting-emotion-recognition-performance-in-speech-using-cpc-ce6b23a05759">How to Boost Emotion Recognition Performance in Speech Using Contrastive Predictive Coding</a>
+  <br>
+  <a href="https://medium.com/speechmatics/how-to-write-kubernetes-custom-controllers-in-go-8014c4a04235">How to write Kubernetes custom controllers in Go</a>
 </p>
