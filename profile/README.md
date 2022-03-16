@@ -27,13 +27,21 @@
 <p align="center">
   <b>Some of our <a href="https://www.speechmatics.com/our-technology/research">research</a> 👩‍🔬</b>
   <br>
-  <a href="https://arxiv.org/abs/2002.08111">Hierarchical Quantized Autoencoders</a> and <a href="https://github.com/speechmatics/hqa">code to accompany the paper</a> - <a href="https://videos.neurips.cc/search/autoencoders/video/slideslive-38936029">NeurIPs 2020</a> - Will Williams, Sam Ringer, Tom Ash, John Hughes, David MacLeod, Jamie Dougherty. February 19, 2020.
+  <a href="https://arxiv.org/abs/2002.08111">Hierarchical Quantized Autoencoders</a> (code published in <a href="https://github.com/speechmatics/hqa">hqa repo</a>)
   <br>
-  <a href="https://arxiv.org/abs/1910.08519">Texture Bias Of CNNs Limits Few-Shot Classification Performance</a> - NeurIPS 2019 - Sam Ringer, Will Williams, Tom Ash, Remi Francis, David MacLeod. October 18, 2019.
+  <i><a href="https://videos.neurips.cc/search/autoencoders/video/slideslive-38936029">NeurIPs 2020</a> - Will Williams, Sam Ringer, Tom Ash, John Hughes, David MacLeod, Jamie Dougherty. February 19, 2020.</i>
   <br>
-  <a href="https://www.semanticscholar.org/paper/Forward-backward-retraining-of-recurrent-neural-Senior-Robinson/c25e9ebd8fe9d761f4738f7936ef114f7f6afe5d">Forward-backward retraining of recurrent neural networks</a> - This presents the first “end-to-end” training paper for tasks such as speech recognition. A. Senior and A.J. Robinson. Advances in Neural Information Processing Systems 8, 1996
+  <a href="https://arxiv.org/abs/1910.08519">Texture Bias Of CNNs Limits Few-Shot Classification Performance</a>
   <br>
-  <a href="https://www.academia.edu/30352226/A_recurrent_error_propagation_network_speech_recognition_system">A recurrent error propagation network speech recognition system</a> - The first application of recurrent nets to speech recognition. A.J. Robinson and F. Fallside. Computer Speech and Language, 5(3):259–274, July 1991.
+  <i>NeurIPS 2019 - Sam Ringer, Will Williams, Tom Ash, Remi Francis, David MacLeod. October 18, 2019.</i>
+  <br>
+  <a href="https://www.semanticscholar.org/paper/Forward-backward-retraining-of-recurrent-neural-Senior-Robinson/c25e9ebd8fe9d761f4738f7936ef114f7f6afe5d">Forward-backward retraining of recurrent neural networks</a>
+  <br>
+  <i>This presents the first “end-to-end” training paper for tasks such as speech recognition. A. Senior and A.J. Robinson. Advances in Neural Information Processing Systems 8, 1996</i>
+  <br>
+  <a href="https://www.academia.edu/30352226/A_recurrent_error_propagation_network_speech_recognition_system">A recurrent error propagation network speech recognition system</a>
+  <br>
+  <i>The first application of recurrent nets to speech recognition. A.J. Robinson and F. Fallside. Computer Speech and Language, 5(3):259–274, July 1991.</i>
 </p>
 
 <p align="center">
