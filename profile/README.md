@@ -11,7 +11,7 @@
   <b> | </b><a href="https://www.linkedin.com/company/speechmatics">LinkedIn</a>
 </p>
 
-<p align="center"><b><a href="https://page.speechmatics.com/free-trial.html">Start Free Trial 🚀</a></b></p>
+<p align="center"><b><a href="https://page.speechmatics.com/portal-signup.html">Start Free Trial 🚀</a></b></p>
 
 <p align="center">
   <b><a href="https://www.speechmatics.com/why-speechmatics">Why Choose Speechmatics?</a></b><br>
